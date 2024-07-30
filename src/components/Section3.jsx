@@ -4,7 +4,7 @@ const Section3 = () => {
     return (
         <div className='container mt-5 pt-5'>
             <div className="row mt-5">
-                <h1>About Sixteen Clothing</h1>
+                <h1>About TrendyThreads</h1>
                 <hr className='mt-1' />
             </div>
             <div className="row px-3 mb-5 pb-5">
@@ -29,7 +29,7 @@ const Section3 = () => {
             <hr />
             <div className="row justify-content-between  row-cols-2 row-cols-lg-5 mt-5 py-5 mb-5 mx-auto" style={{background:"rgb(206 204 204 / 31%)"}}>
                 <div className="col col-8">
-                    <h5 style={{ color: "#1a6692" }}>Creative & Unique Sixteen Products</h5>
+                    <h5 style={{ color: "#1a6692" }}>Creative & Unique TrendyThreads Products</h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque corporis amet elite author nulla.</p>
                 </div>
                 <div className="col ms-auto">
